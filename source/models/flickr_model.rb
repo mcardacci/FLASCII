@@ -8,7 +8,7 @@ class Flickr
     self.tag_search(user_string_input)
     self.photo_id
     self.get_info
-    p self.get_url
+    self.get_url
     self.get_ascii
   end
 
